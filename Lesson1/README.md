@@ -27,8 +27,8 @@
 ### 4. Создать документацию приложения JavaDoc.
 
 Скрин создания документации и отображения на web
-![JavaDoc_1](
+![JavaDoc_1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/JavaDoc_1.png)
 
-![JavaDoc_2](
+![JavaDoc_2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/JavaDoc_2.png)
 
-![JabaDoc_3](
+![JabaDoc_3](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/JavaDoc_3.png)
