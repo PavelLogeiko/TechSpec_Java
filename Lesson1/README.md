@@ -22,4 +22,13 @@
 
 ![DockerBuild](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/DockerBuild.png)
 
-![DockerRun](
+![DockerRun](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/DockerRun.png)
+
+### 4. Создать документацию приложения JavaDoc.
+
+Скрин создания документации и отображения на web
+![JavaDoc_1](
+
+![JavaDoc_2](
+
+![JabaDoc_3](
