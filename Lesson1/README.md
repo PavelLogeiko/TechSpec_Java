@@ -7,7 +7,7 @@
 Ссылка на файлы приложения
 
 Скрин работы приложения
-[Task_1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/CalcApp.png)
+[CalcApp](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/CalcApp.png)
 
 ### 2. Необходимо установить Docker Desktop.
 
