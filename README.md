@@ -1,1 +1,0 @@
-# TechSpec_Java
