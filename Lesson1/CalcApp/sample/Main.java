@@ -1,7 +1,6 @@
 package ru.geekbrains.sample;
 import ru.geekbrains.regular.Arithmetic;
 import ru.geekbrains.regular.Format;
-
 /**
  * Основной класс приложения. Вызов классов Arithmetic и Format.
  * Вывод на экран результатов операций.
