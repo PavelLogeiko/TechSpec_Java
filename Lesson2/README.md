@@ -4,6 +4,6 @@
 
 Скрин работы программы
 
-[!XO_App1](}
+[!XO_App1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson2/Images/XO_App1.png)
 
-[!XO_App2]()
+[!XO_App2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson2/Images/XO_App2.png)
