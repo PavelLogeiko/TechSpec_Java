@@ -7,13 +7,19 @@
 Ссылка на файлы приложения
 
 Скрин работы приложения
+
 ![CalcApp](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/CalcApp.png)
 
 ### 2. Необходимо установить Docker Desktop.
 
 Скрин установленного приложения
+
 ![DockerDesktop](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/DockerDesktop.png)
 
 ### 3. Создать Dockerfile, позволяющий откопировать исходный код вашего приложения в образ для демонстрации работы вашего приложения при создании соответствующего контейнера.
 
 Скрин создания dockerfile, создания образа и запуска образа в работу
+
+![DockerBuild](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/DockerBuild.png)
+
+![DockerRun](
