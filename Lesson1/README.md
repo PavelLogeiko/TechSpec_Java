@@ -12,6 +12,7 @@
 ### 2. Необходимо установить Docker Desktop.
 
 Скрин установленного приложения
+![Docker Decktop](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson1/Images/Docker%20Decktop.png)
 
 ### 3. Создать Dockerfile, позволяющий откопировать исходный код вашего приложения в образ для демонстрации работы вашего приложения при создании соответствующего контейнера.
 
