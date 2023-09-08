@@ -17,13 +17,13 @@ MyArraySizeException и MyArrayDataException и вывести результа�
 
 Преобразование и суммирование массива
 
-![lesson4_1]
+![lesson4_1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson4/Images/lesson4_1.png)
 
 Неправильное значение в массиве
 
-![lesson4_2]
+![lesson4_2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson4/Images/lesson4_2.png)
 
 Не корректный размер массива
 
-![lesson4_3]
+![lesson4_3](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson4/Images/lesson4_3.png)
 
