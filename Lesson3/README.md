@@ -19,5 +19,4 @@
 
 ![lesson3_2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson3/Images/lesson3_2.png)
 
-
 ![lesson3_3](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson3/Images/lesson3_3.png)
