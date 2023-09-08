@@ -12,9 +12,12 @@
 ## Реализация
 
 Создание коллекции работников и расчет заработной платы (от оклада)
+
 ![lesson3_1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson3/Images/lesson3_1.png)
 
 Создание рандомной коллекции фрилансеров и расчет средней заработной платы (от почасовой ставки)
+
 ![lesson3_2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson3/Images/lesson3_2.png)
+
 
 ![lesson3_3](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson3/Images/lesson3_3.png)
