@@ -8,7 +8,7 @@
 ![backup1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson5/Images/backup1.png)
 
 Копирование завершено успешно в папку lesson5_backup
-![backup2]()
+![backup2](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson5/Images/backup2.png)
 
 3. Доработайте класс Tree и метод print который мы разработали на семинаре. Ваш метод должен распечатать полноценное дерево директорий и файлов относительно корневой директории.
 
