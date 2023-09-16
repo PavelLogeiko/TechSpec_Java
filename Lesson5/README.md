@@ -5,7 +5,7 @@
 
 Старт копирования
 
-![backup1]()
+![backup1](https://github.com/PavelLogeiko/TechSpec_Java/blob/main/Lesson5/Images/backup1.png)
 
 Копирование завершено успешно в папку lesson5_backup
 ![backup2]()
